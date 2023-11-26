@@ -41,7 +41,7 @@ Packages required for this program is listed below:
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure03.png" width="800" height="340">
 - Confusion Matrix for Machine Learning Prediction
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure04.png" width="400" height="400">
-- Confusion Matrix for Machine Learning Prediction
+- Deep Neural Network Traing and Testing
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure05.png" width="600">
 
 
