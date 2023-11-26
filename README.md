@@ -6,10 +6,10 @@ With the increasing needs for daily cosmetic products these years, cosmetic prod
 
 ## Goals
 Intend to study with this project/Objectives:
-- 1. We want to help consumers make informed decisions about their cosmetic product purchases by identifying the common ingredients and allergens in cosmetic products.
-- 2. We want to cluster cosmetic products based on their common ingredients using K-means clustering to help recommend similar products.
-- 3. The ultimate goal of this project is to build a model for clustering cosmetic products in Open Beauty Facts, so we can help different consumers to select different target products to meet their needs.
-- 4. K-means clustering method along with other clustering methods for product classification. Machine learning methods such as random tree forest may also be used in this project for classification.
+1. We want to help consumers make informed decisions about their cosmetic product purchases by identifying the common ingredients and allergens in cosmetic products.
+2. We want to cluster cosmetic products based on their common ingredients using K-means clustering to help recommend similar products.
+3. The ultimate goal of this project is to build a model for clustering cosmetic products in Open Beauty Facts, so we can help different consumers to select different target products to meet their needs.
+4. K-means clustering method along with other clustering methods for product classification. Machine learning methods such as random tree forest may also be used in this project for classification.
 
 ## Requirement
 
