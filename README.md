@@ -22,5 +22,5 @@ Packages required for this program is listed below:
 
 ## Results:
 - Image Style Transfer Examples: 
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure01.png" width="1000" height="516">
+<img src="" width="1000" height="516">
 
