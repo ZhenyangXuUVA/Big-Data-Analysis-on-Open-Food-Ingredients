@@ -36,11 +36,11 @@ Packages required for this program is listed below:
 - NaN distributions and Cleaned Dataframe
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure01.png" width="800" height="680">
 - Correlation HeatMaps
-<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure02.png" width="600" height="600">
+<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure02.png" width="550" height="550">
 - Explained Variance Ratio for PCA
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure03.png" width="800" height="340">
 - Confusion Matrix for Machine Learning Prediction
-<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure04.png" width="600" height="600">
+<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure04.png" width="400" height="400">
 
 
 
