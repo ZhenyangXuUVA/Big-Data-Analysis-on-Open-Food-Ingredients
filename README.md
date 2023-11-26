@@ -25,7 +25,12 @@ Packages required for this program is listed below:
 - Big_Data_Analysis_Open_Food_Facts_V01.py: Data processing python code version 1
 
 ## Data files:
-- 
+- COSING_Annex_Part1
+- COSING_Annex_Part2
+- COSING_Annex_Part3
+- COSING_Annex_Part4
+- COSING_Ingredients
+- Open_Food_Facts_Products.tsv
 
 ## Results:
 - Image Style Transfer Examples: 
