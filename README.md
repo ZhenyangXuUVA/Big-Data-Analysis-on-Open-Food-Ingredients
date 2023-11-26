@@ -34,5 +34,5 @@ Packages required for this program is listed below:
 
 ## Results:
 - Image Style Transfer Examples: 
-<img src="" width="500" height="300">
+<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure01.png" width="600" height="300">
 
