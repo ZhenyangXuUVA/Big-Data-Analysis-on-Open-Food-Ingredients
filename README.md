@@ -23,6 +23,10 @@ Packages required for this program is listed below:
 ## Code files:
 - Big_Data_Analysis_Open_Food_Facts_V01.ipynb: Data processing notebook version 1
 - Big_Data_Analysis_Open_Food_Facts_V01.py: Data processing python code version 1
+- Exploratory Data Analysis.py: Data EDA code
+- Data Cleaning and Wrangling.py: Data Cleaning Code
+- Model Building and Data Analysis.py: Machine Learning Modeling Code
+- Deep Neural Network Training.py: Deep Learning Modeling Code
 
 ## Data files:
 - COSING_Annex_Part1
@@ -43,7 +47,4 @@ Packages required for this program is listed below:
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure04.png" width="400" height="400">
 - Deep Neural Network Traing and Testing
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure05.png" width="600">
-
-
-
 
