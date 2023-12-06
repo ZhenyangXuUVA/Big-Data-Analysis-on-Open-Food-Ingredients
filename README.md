@@ -38,10 +38,7 @@ Packages required for this program is listed below:
 
 ## Results:
 - NaN distributions and Cleaned Dataframe
-<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure01.png" width="800" height="680">
-
-
-
+<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure01.png" width="500" height="425">
 - Correlation HeatMaps
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure02.png" width="550" height="550">
 - Explained Variance Ratio for PCA
