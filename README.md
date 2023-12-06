@@ -44,7 +44,7 @@ Packages required for this program is listed below:
 - Explained Variance Ratio for PCA
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure03.png" width="600" height="255">
 - Confusion Matrix for Machine Learning Prediction
-<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure04.png" width="750" height="300">
+<img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure04.png" width="600" height="240">
 - Deep Neural Network Traing and Testing
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure05.png" width="600">
 <img src="https://github.com/ZhenyangXuUVA/Big-Data-Analysis-on-Open-Food-Ingredients/blob/main/Readme/Figure06.png" width="600">
