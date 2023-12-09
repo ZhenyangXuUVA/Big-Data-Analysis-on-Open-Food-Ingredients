@@ -23,6 +23,12 @@ Packages required for this program is listed below:
 ## Code files:
 - Big_Data_Analysis_Open_Food_Facts_V01.ipynb: Data processing notebook version 1
 - Big_Data_Analysis_Open_Food_Facts_V01.py: Data processing python code version 1
+- Big_Data_Analysis_Open_Food_Facts_V02.ipynb: Data processing notebook version 2
+- Big_Data_Analysis_Open_Food_Facts_V02.py: Data processing python code version 2
+- Big_Data_Analysis_Open_Food_Facts_V03.ipynb: Data processing notebook version 3
+- Big_Data_Analysis_Open_Food_Facts_V03.py: Data processing python code version 3
+- Big_Data_Analysis_Open_Food_Facts_V04.ipynb: Data processing notebook Final Ver
+- Big_Data_Analysis_Open_Food_Facts_V04.py: Data processing python code Final Ver
 - Exploratory Data Analysis.py: Data EDA code
 - Data Cleaning and Wrangling.py: Data Cleaning Code
 - Model Building and Data Analysis.py: Machine Learning Modeling Code
